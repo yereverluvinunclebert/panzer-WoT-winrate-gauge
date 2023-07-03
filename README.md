@@ -30,9 +30,8 @@ the Yahoo Widget Konfabulator engine. The engine interprets the javascript and
 creates the widget according to the XML description and using the images you 
 provide. 
 
-![tank-help-750](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/168c2951-30c4-498b-ac73-bc07a5588f61)
+![tank-help-750](https://github.com/yereverluvinunclebert/panzer-WoT-winrate-gauge/assets/2788342/237cce07-4a92-48b0-9477-880ae8cc552c)
 
- 
 Built using: 
 
 	RJTextEd Advanced Editor  https://www.rj-texted.se/ 
@@ -123,7 +122,8 @@ Configuration with World of Tanks
  hit Enter. If it is a valid ID then after a few seconds the gauge will obtain 
  and register your win rate and indicate your noobness/unicumness.
  
-
+ ![tank-help-750](https://github.com/yereverluvinunclebert/panzer-WoT-winrate-gauge/assets/2788342/fae49e0b-c8da-44c1-896f-4e00c0afa052)
+ 
  LICENCE AGREEMENTS:
  
  Copyright 2023 Dean Beedell
@@ -134,7 +134,7 @@ Configuration with World of Tanks
  original artist using my name or one of my pseudonyms and a link to my site.
  With regard to the commercial use of incorporated images, permission and a
  licence would need to be obtained from the original owner and creator, ie. me.
- 
-![about](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/160f7eef-21bd-4994-910c-a7c4f08016a1)
+
+![about](https://github.com/yereverluvinunclebert/panzer-WoT-winrate-gauge/assets/2788342/9012171f-e62e-4e01-820a-db9084b8cde4)
 
 
