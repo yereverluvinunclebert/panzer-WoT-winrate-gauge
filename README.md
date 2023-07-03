@@ -4,7 +4,7 @@ Dieselpunk Desktop World of Tanks Win Rate widget, written in Javascript and XML
 for the Yahoo Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ 
 as well as the Apple Mac sierra + operating systems.
 
-![panzer-hitrate750](https://github.com/yereverluvinunclebert/panzer-WoT-Hit-Rate-Gauge/assets/2788342/986ee9e5-271f-460b-8f29-729de0d077a4)
+![panzerWinRate750](https://github.com/yereverluvinunclebert/panzer-WoT-winrate-gauge/assets/2788342/0c1dde82-5f76-43ee-9b0f-d65a3676c0a8)
 
 A Dieselpunk Win Rate widget - I created for the World of Tanks and War Thunder 
 communities.This Panzer widget is a simple Win Rate gauge. Functional 
@@ -121,8 +121,6 @@ Configuration with World of Tanks
  That is your user ID. Open the widget Preferences, type it into the widget and 
  hit Enter. If it is a valid ID then after a few seconds the gauge will obtain 
  and register your win rate and indicate your noobness/unicumness.
- 
- ![tank-help-750](https://github.com/yereverluvinunclebert/panzer-WoT-winrate-gauge/assets/2788342/fae49e0b-c8da-44c1-896f-4e00c0afa052)
  
  LICENCE AGREEMENTS:
  
