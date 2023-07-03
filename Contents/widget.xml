@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<name>Panzer Win Rate Widget</name>
+	<version>1.5</version>
+	<author name="Dean Beedell" />
+	<image usage="security" src="Resources/images/security panzer WoT winrate.png"/>
+	<image usage="dock" src="Resources/images/dock.png"/>
+	<platform minVersion="4.5" />
+    <copyright>(c) 2011-2016 Dean Beedell</copyright>
+    <description>The Konfabulator Panzer Win Rate Gauge Widget for World of Tanks makes use of the WoT API to extract real data from WG's database.</description>
+	<security>
+          <filesystem>full</filesystem>
+          <http>all</http>
+          <applescript>true</applescript>
+          <command>true</command>
+          <hotkey>true</hotkey>
+	</security>
+</metadata>
